@@ -1,0 +1,6 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: OSU-SIG
+  desciption: set SELinux to permissive mode
